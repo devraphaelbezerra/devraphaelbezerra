@@ -12,4 +12,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img align="center" alt="oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
-</div>
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+
+## E-mail
+
+- [raphael.b.couto@gmail.com](raphael.b.couto@gmail.com)<br/>
