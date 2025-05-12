@@ -37,8 +37,11 @@
 |--------|------------|-------------|
 | [DESOSSA.md](https://github.com/devraphaelbezerra/DESOSSA.md) | Estrutura para documentação e modelagem de fluxos corporativos | Markdown, Gestão de processos |
 | [MONTAGEM_DE_MOVEIS](https://github.com/devraphaelbezerra/MONTAGEM_DE_MOVEIS) | Workflow para montagem de móveis com TOTVS Fluig | Fluig, Automação de processos, JavaScript |
-| [INTEGRADOR DE DADOS](https://github.com/devraphaelbezerra/INTEGRADOR_DE_DADOS) | Integração entre sistemas via API e banco de dados | Node.js, Oracle, PostgreSQL |
-
+| [USO E CONSUMO](https://github.com/devraphaelbezerra/Uso-e-Consumo) | Processo no Fluig para solicitação digital de produtos entre setores, substituindo formulários manuais por uma solução mobile/web com fluxo automatizado, integração fiscal e trilha de aprovação. | Fluig ECM, BPMN, JavaScript, HTML, CSS |
+| [BLITZ DE VALIDADE](https://github.com/devraphaelbezerra/Blitz-de-Validade) | Processo semanal para fiscalização de validade de produtos nas gôndolas. Os envolvidos utilizam celulares para registrar código de barras e validade, com alertas automáticos enviados aos compradores responsáveis. | Fluig ECM, JavaScript, Dataset, API REST |
+| [AUDITORIA RECEBIMENTO CARGAS P.A.R](https://github.com/devraphaelbezerra/Auditoria-Recebimento-Cargas-P.A.R) | Sistema de monitoramento em tempo real de produtos PAR recebidos no depósito via WMS. Destaca cargas de risco, exibe detalhes e envia alertas visuais e interativos. | Fluig Widget, JavaScript, RMS (TOTVS), SQL |
+| [DATASET CUSTOMIZADO ONSYNC DOBRA AUTOMÁTICA](https://github.com/devraphaelbezerra/ds_dobra_automatica_onSync) | Dataset inteligente criado no Fluig para contornar falhas na "dobra automática" do TOTVS RMS. Detecta notas inconsistentes e replica as agendas faltantes via API enquanto a solução definitiva está em tratativa. | Fluig Dataset, API REST, JavaScript, RMS |
+| [AJUSTE VATCAIXA](https://github.com/devraphaelbezerra/ajuste-VATCAIXA) | Dataset VATCAIXA_update_onSync.js que realiza auditoria e correção automatizada de dados em tempo de execução, garantindo consistência de informações no banco RMS. | Fluig Dataset, JavaScript, SQL, TOTVS RMS |
 ---
 
 ## 📫 Entre em contato
