@@ -8,7 +8,8 @@
 
 ## 💻 Sobre mim
 
-- 🎓 Analista de Sistemas com foco em desenvolvimento backend e automações corporativas
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas(Unama/PA) com pós-graduação em Engenharia de Software(Estácio de Sá/PA).
+- 🧩 Atuando em "dores" reais de clientes e diretamente nas necessidades dos mesmos, com foco em experiência do usuário (UX).
 - 🛠️ Tecnologias: JavaScript | React | Node.js | Python | HTML5 | CSS3 | Oracle | PostgreSQL | MySQL
 - ☁️ Experiência com plataforma **TOTVS Fluig** e integrações com sistemas ERP
 - 📈 Sempre buscando aprendizado e novas soluções que otimizem processos
