@@ -35,8 +35,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |--------|------------|-------------|
-| [DESOSSA.md](https://github.com/devraphaelbezerra/DESOSSA.md) | Estrutura para documentação e modelagem de fluxos corporativos | Markdown, Gestão de processos |
-| [MONTAGEM_DE_MOVEIS](https://github.com/devraphaelbezerra/MONTAGEM_DE_MOVEIS) | Workflow para montagem de móveis com TOTVS Fluig | Fluig, Automação de processos, JavaScript |
+| [DESOSSA.md](https://github.com/devraphaelbezerra/DESOSSA.md) | Dataset desossaOnSync.js que realiza emissão de NF de transferencia entre agendas do RMS via API Visual Mix, garantindo consistência de informações no banco RMS para produtos de corte para prateleira. | Fluig Dataset, API REST, JavaScript, RMS |
+| [MONTAGEM_DE_MOVEIS](https://github.com/devraphaelbezerra/MONTAGEM_DE_MOVEIS) | Workflow automatizado para controle da montagem de móveis via TOTVS Fluig, com etapas de agendamento, execução e registro de conclusão diretamente no processo. | TOTVS Fluig, JavaScript, Automação de Processos, HTML |
 | [USO E CONSUMO](https://github.com/devraphaelbezerra/Uso-e-Consumo) | Processo no Fluig para solicitação digital de produtos entre setores, substituindo formulários manuais por uma solução mobile/web com fluxo automatizado, integração fiscal e trilha de aprovação. | Fluig ECM, BPMN, JavaScript, HTML, CSS |
 | [BLITZ DE VALIDADE](https://github.com/devraphaelbezerra/Blitz-de-Validade) | Processo semanal para fiscalização de validade de produtos nas gôndolas. Os envolvidos utilizam celulares para registrar código de barras e validade, com alertas automáticos enviados aos compradores responsáveis. | Fluig ECM, JavaScript, Dataset, API REST |
 | [AUDITORIA RECEBIMENTO CARGAS P.A.R](https://github.com/devraphaelbezerra/Auditoria-Recebimento-Cargas-P.A.R) | Sistema de monitoramento em tempo real de produtos PAR recebidos no depósito via WMS. Destaca cargas de risco, exibe detalhes e envia alertas visuais e interativos. | Fluig Widget, JavaScript, RMS (TOTVS), SQL |
