@@ -8,7 +8,7 @@
 
 ## 💻 Sobre mim
 
-- 🎓 Formado em Analise e Desenvolvimento de Sistemas(Unama/PA) com pós-graduação em Engenharia de Software(Estácio de Sá/PA).
+- 🎓 Formado em Analise e Desenvolvimento de Sistemas (Unama/PA) com pós-graduação em Engenharia de Software (Estácio de Sá/PA).
 - 🧩 Atuando em "dores" reais de clientes e diretamente nas necessidades dos mesmos, com foco em experiência do usuário (UX).
 - 🛠️ Tecnologias: JavaScript | React | Node.js | Python | HTML5 | CSS3 | Oracle | PostgreSQL | MySQL
 - ☁️ Experiência com plataforma **TOTVS Fluig** e integrações com sistemas ERP
