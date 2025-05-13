@@ -42,6 +42,10 @@
 | [AUDITORIA RECEBIMENTO CARGAS P.A.R](https://github.com/devraphaelbezerra/Auditoria-Recebimento-Cargas-P.A.R) | Sistema de monitoramento em tempo real de produtos PAR recebidos no depósito via WMS. Destaca cargas de risco, exibe detalhes e envia alertas visuais e interativos. | Fluig Widget, JavaScript, RMS (TOTVS), SQL |
 | [DATASET CUSTOMIZADO ONSYNC DOBRA AUTOMÁTICA](https://github.com/devraphaelbezerra/ds_dobra_automatica_onSync) | Dataset inteligente criado no Fluig para contornar falhas na "dobra automática" do TOTVS RMS. Detecta notas inconsistentes e replica as agendas faltantes via API enquanto a solução definitiva está em tratativa. | Fluig Dataset, API REST, JavaScript, RMS |
 | [AJUSTE VATCAIXA](https://github.com/devraphaelbezerra/ajuste-VATCAIXA) | Dataset VATCAIXA_update_onSync.js que realiza auditoria e correção automatizada de dados em tempo de execução, garantindo consistência de informações no banco RMS. | Fluig Dataset, JavaScript, SQL, TOTVS RMS |
+| [Troca-s-de-Outra-s-Loja-s-](https://github.com/devraphaelbezerra/Troca-s-de-Outra-s-Loja-s-) | Processo para tratar sistematicamente a entrada de trocas realizadas em filiais diferentes da origem da venda, resolvendo falhas operacionais entre estoque e agenda fiscal no TOTVS RMS. | TOTVS RMS, Fluig, Gestão de Estoque, Integração entre filiais |
+| [ERP-versioning-test-suite](https://github.com/devraphaelbezerra/ERP-versioning-test-suite)   | Roteiro estruturado de testes manuais para validação de novas versões ERP. O projeto registra passo a passo as verificações realizadas após cada exportação de *codfon*, garantindo estabilidade em ambientes de varejo com integração fiscal. | TOTVS PDV, Web Manager, NF-e/NFC-e, QA Manual, Fluig, Varejo  |
+
+
 ---
 
 ## 📫 Entre em contato
